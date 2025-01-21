@@ -1,1 +1,2 @@
-# Probability_Distribution_Simulator
+## Probability Distribution Simulator
+It is a Python-based application that allows users to visualize various probability distributions through histograms and cumulative distribution function (CDF) graphs. In addition, the application computes and displays key statistical metrics for the selected distribution, such as mean, median, variance, and standard deviation. Users can also export the generated graphs and save them locally.
